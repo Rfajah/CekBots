@@ -1,7 +1,7 @@
 Rdp = {
-    {nordp = 1, botname = "Bot1", Status = "Nonaktif"},
-    {nordp = 1, botname = "Bot1", Status = "Nonaktif"},
-    {nordp = 2, botname = "Bot2", Status = "Nonaktif"},
+    {nordp = 1, botname = "FANDY3CADANGAN", Status = "Nonaktif"},
+    {nordp = 1, botname = "FANDY4CADANGAN", Status = "Nonaktif"},
+    {nordp = 1, botname = "FANDY1CADANGAN", Status = "Nonaktif"},
     {nordp = 2, botname = "Bot2", Status = "Nonaktif"},
     {nordp = 3, botname = "Bot3", Status = "Nonaktif"},
     {nordp = 3, botname = "Bot3", Status = "Nonaktif"},
@@ -13,7 +13,7 @@ Rdp = {
     {nordp = 6, botname = "Bot6", Status = "Nonaktif"}
 }
 
-ShowIP = true
+ShowIP = false
 ip_add = {
     "192.168.0.1",
     "192.168.0.2",
@@ -24,7 +24,7 @@ ip_add = {
     "192.168.0.7"
 }
 
-hookURL = "Hook URL Kalian"
+hookURL = "https://discord.com/api/webhooks/1020562142304407582/flvacHyJeWH1JhA8gdbuZchX7AQADHSQH5XTVurVh5K93QTxQi4Zf1Wu6QZ48jXg1syy"
 
 Teks_Deskripsi = "List Nick Para Babu"
 Teks_Footer = "Golek Duit Kanggo Masa Depan"
